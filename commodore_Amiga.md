@@ -84,7 +84,7 @@ Die höhere CPU-Leistung wurde also primär für bessere Grafik, komplexere Spie
 
 
 
-Sound Chip / auflosung vergliechs bild
+Sound Chip / auflosung vergliechs bild / HAM 
 
 
 
