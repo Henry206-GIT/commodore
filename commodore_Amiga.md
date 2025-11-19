@@ -65,13 +65,26 @@ Sehr Auschlaggeben gerade fuers gaming waren der verbesserte Processor und beim 
 
 1. Vergleich bilder fuer die Leistung Prozessor, Takfrequenz etc...
 
-2. Farben demonstration 2 sheets dann game bilder zeigen und den pixel vergleich [x]
+Der Amiga 500 hatte tatsächlich eine deutlich schnellere CPU (Motorola 68000 mit ~7 MHz) im Vergleich zum C64 (MOS 6510 mit ~1 MHz). Trotzdem waren Spiele oft nicht proportional schneller. Die Hauptgründe:
+Höhere Auflösung und Farbtiefe
+Der C64 arbeitete mit 320×200 Pixeln und 16 Farben, der Amiga typischerweise mit 320×256 oder höher und 32+ Farben. Das bedeutete deutlich mehr Daten, die bewegt werden mussten. Ein Vollbild-Update auf dem Amiga erforderte etwa 40.000 Bytes statt 8.000 beim C64 - fünfmal mehr!
+Speicherzugriffs-Konkurrenz
+Der C64 hatte separate Chips für Grafik (VIC-II) und CPU, die weitgehend unabhängig arbeiteten. Beim Amiga teilten sich CPU und Custom-Chips (Denise, Paula, Agnus) den gleichen RAM-Bus. Während die Blitter oder Copper Daten bewegten, musste die CPU oft warten - das kostete Rechenzeit.
+Komplexere Grafik
+Viele Amiga-Spiele nutzten aufwändige Parallax-Scrolling-Effekte, mehr animierte Sprites und detailliertere Hintergründe. Diese Mehrarbeit "fraß" die zusätzliche CPU-Leistung.
+Hardware-Sprites begrenztq
+Der C64 hatte 8 Hardware-Sprites, der Amiga ebenfalls nur 8. Für mehr bewegte Objekte musste Software-Rendering genutzt werden, was die CPU stark belastete.
+Die höhere CPU-Leistung wurde also primär für bessere Grafik, komplexere Spiellogik und aufwändigere Effekte verwendet - nicht unbedingt für höhere Framerates.
+
+2. Farben demonstration 2 sheets dann game bilder zeigen und den pixel HAM irgendwas vergleich [x]
 
 3. Sound demonstration 2 video clips 
 
 4. sprites demonstrieren / frei verstellbar / keine festen groesen 
 
 
+
+Sound Chip / auflosung vergliechs bild
 
 
 
